@@ -1,0 +1,68 @@
+{
+    "menu_admin": [
+        {
+            "navheader": "Home Page",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/home",
+            "name": "Home Page",
+            "i18n": "Home Page",
+            "class": "waves-effect waves-cyan",
+            "icon": "home",
+            "slug": "home"
+        },
+        {
+            "navheader": "Users",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/users-list",
+            "name": "User List",
+            "i18n": "User List",
+            "class": "waves-effect waves-cyan",
+            "slug": "users-list",
+            "icon": "list"
+        },
+        {
+            "url": "admin/user-add",
+            "name": "User Add",
+            "i18n": "User Add",
+            "class": "waves-effect waves-cyan",
+            "slug": "user-add",
+            "icon": "add"
+        },
+        {
+            "navheader": "My Profile",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/my-profile",
+            "name": "My Profile",
+            "i18n": "My Profile",
+            "class": "waves-effect waves-cyan",
+            "slug": "admin/my-profile",
+            "icon": "people"
+        },
+        {
+            "navheader": "To Do",
+            "icon": "more_horiz"
+        },
+        {
+            "url": "admin/to-do-list",
+            "name": "To Do List",
+            "i18n": "To Do List",
+            "class": "waves-effect waves-cyan",
+            "slug": "to-do-list",
+            "icon": "list"
+        },
+        {
+            "url": "admin/to-do-add",
+            "name": "To Do Add",
+            "i18n": "To Do Add",
+            "class": "waves-effect waves-cyan",
+            "slug": "to-do-add",
+            "icon": "add"
+        }
+    ]
+}
